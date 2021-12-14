@@ -16,5 +16,8 @@
     "benny": "^3.7.1",
     "jest": "^27.4.4",
     "prettier": "^2.5.1"
+  },
+  "dependencies": {
+    "@geonet/geohash": "^1.0.16"
   }
 }

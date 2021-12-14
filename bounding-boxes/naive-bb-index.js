@@ -9,7 +9,7 @@
 
  assumptions:
  - points contain (at least) an x, y, and an id property (for now, not using
-    geojson)
+ geojson)
  - the index should not assume that points are only queried by reference.
  - ids are unique, and do not need to be enforced in the database
  */
